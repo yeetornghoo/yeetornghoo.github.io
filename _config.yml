@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+
+
+social:
+  name: Kamil Adam # You :P
+  links:
+    - https://github.com/twocolumn
+    - https://www.linkedin.com/company/writeonly-pl
+    - https://www.facebook.com/WriteOnlyPL
+    - https://www.instagram.com/degustujacaistota/
+    - https://twitter.com/TheKamilAdam
+#    - https://plus.google.com/+BenBalter
+#    - https://keybase.io/benbalter
