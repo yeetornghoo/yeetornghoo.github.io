@@ -1,8 +1,8 @@
 ## YeeTorng Hoo (贺雨桐）
 
-You can use the [editor on GitHub](https://github.com/yeetornghoo/yeetornghoo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- I am a final year Master Student supervised by [Mohd Ridzwan Yaakub](http://www.ftsm.ukm.my/cait/Researchers_Ridzwan.html) at Sentiment Lab of [Universiti Kebangsaan Malaysia (UKM)](https://www.ukm.my/portal/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- My research interests lie in computer vision, deep learning, human-computer interaction and multidisciplinary vision research. Specifically, I am actively conducting low-level vision research like image denoising and enhancement. I am engaging in applying image/data restoration and recognition theory to multiple reseach areas including optics and display, art and history, neuroscience, psychology and affect, medicine and health, even financial trading. Please see my list of publications for some examples.
 
 ### Markdown
 
