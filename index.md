@@ -4,6 +4,9 @@ I am a final year Master Student supervised by [Mohd Ridzwan Yaakub](http://www.
 
 Mobile: +601114391315 | Email: p101447@siswa.ukm.edu.my
 
+## Master Research Project
+[#BlackLivesMatter: Decomposing the Social Movement and the Stories Behind](https://yeetornghoo.github.io/SocialMovementSentiment/)
+
 ## Technical Skills 
 Python, R-Script, TensorFlow, RapidMiner, Classification and Predictive Modeling, Pandas, Scikit-Lean, Azure, AWS, Hadoop, Java, C#, PHP, Javascript, Perl, Html, CSS, Javascript, ExtJs, Bash, Powershell, Agile Development, Scrum, PowerBI, Tableau, Jira, Jenkins, Git, DevOps, MS-SQL, Oracle, PostgreSQL and MySQL, Window, Linux, Release Management
 
