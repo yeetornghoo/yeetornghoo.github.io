@@ -1,8 +1,6 @@
 ## YeeTorng Hoo (贺雨桐）
 
-- I am a final year Master Student supervised by [Mohd Ridzwan Yaakub](http://www.ftsm.ukm.my/cait/Researchers_Ridzwan.html) at Sentiment Lab of [Universiti Kebangsaan Malaysia (UKM)](https://www.ukm.my/portal/)
-
-- My research interests lie in computer vision, deep learning, human-computer interaction and multidisciplinary vision research. Specifically, I am actively conducting low-level vision research like image denoising and enhancement. I am engaging in applying image/data restoration and recognition theory to multiple reseach areas including optics and display, art and history, neuroscience, psychology and affect, medicine and health, even financial trading. Please see my list of publications for some examples.
+I am a final year Master Student supervised by [Mohd Ridzwan Yaakub](http://www.ftsm.ukm.my/cait/Researchers_Ridzwan.html) at Sentiment Lab of [Universiti Kebangsaan Malaysia (UKM)](https://www.ukm.my/portal/). My research interests lie in natural language processing, natural language understanding, sentiment analysis, deep learning. 
 
 ### Markdown
 
