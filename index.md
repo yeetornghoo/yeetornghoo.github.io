@@ -12,7 +12,6 @@ Python, R-Script, TensorFlow, RapidMiner, Classification and Predictive Modeling
 - Software Engineer at Newspage Technology (Malaysia)
 
 ## Extracurricular Activities & Awards 
-- 2016 – Ranked as “Outstanding Employee” in SAP Lab (Dublin, Ireland)
-- 2015 - Ranked as “Extraordinary Employee” in SAP Lab (Dublin, Ireland) 
-- 2014, 2013 - Ranked as “Outstanding Employee” in SAP Lab (Dublin, Ireland) 
-- 2016 - Ranked as “Top Performance Employee” in Newspage Technology (Malaysia)
+- 2016 – SAP Lab (Dublin, Ireland) - Outstanding Employee
+- 2015 - SAP Lab (Dublin, Ireland) - Extraordinary Employee
+- 2014, 2013 - SAP Lab (Dublin, Ireland) - Outstanding Employee
