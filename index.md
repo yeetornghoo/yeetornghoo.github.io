@@ -15,3 +15,8 @@ Python, R-Script, TensorFlow, RapidMiner, Classification and Predictive Modeling
 - 2016 – SAP Lab (Dublin, Ireland) - Outstanding Employee
 - 2015 - SAP Lab (Dublin, Ireland) - Extraordinary Employee
 - 2014, 2013 - SAP Lab (Dublin, Ireland) - Outstanding Employee
+
+## Others
+- [Medium@carlson.hoo](https://medium.com/@carlson.hoo)
+- [Linkedin](https://www.linkedin.com/in/carlsonhoo)
+- [Latest CV](/docs/YEETORNG-HOO-CV.1.1.pdf)
