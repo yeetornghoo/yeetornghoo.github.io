@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 
 # jekyll-seo-tag
-title:            YeeTorng, HOO
-tagline:          Master’s in Data Science Postgraduate Student at UKM
-description:      "Master’s in Data Science Postgraduate Student at UKM"
-url:              https://yeetornghoo.github.io/
-author:           yeetornghoo
-logo:             /docs/profile.png
+title:           " "
+#tagline:
+description:    "Master’s in Data Science Postgraduate Student at UKM. Data Enthusiast that actively augmenting knowledge and skill in data mining, analytic and machine learning"
+#url:           https://yeetornghoo.github.io/
+#author:        yeetornghoo
+logo:           /docs/profile.png
