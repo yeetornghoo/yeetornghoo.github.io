@@ -19,4 +19,4 @@ Python, R-Script, TensorFlow, RapidMiner, Classification and Predictive Modeling
 ## Others
 - [Medium@carlson.hoo](https://medium.com/@carlson.hoo)
 - [Linkedin](https://www.linkedin.com/in/carlsonhoo)
-- [Latest CV](/docs/YEETORNG-HOO-CV.1.1.pdf)
+- [Latest CV](https://github.com/yeetornghoo/yeetornghoo.github.io/blob/main/docs/YEETORNG-HOO-CV.1.1.pdf)
