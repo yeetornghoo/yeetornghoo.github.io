@@ -1,3 +1,8 @@
+
+
+![](https://www.joc.com/sites/default/files/field_feature_image/KFC_0.png)
+
+
 # YeeTorng Hoo (贺雨桐）
 
 I am a final year Master Student supervised by [Dr. Mohd Ridzwan Yaakub](http://www.ftsm.ukm.my/cait/Researchers_Ridzwan.html) at Sentiment Lab of [Universiti Kebangsaan Malaysia (UKM)](https://www.ukm.my/portal/). My research interests lie in natural language processing, natural language understanding, sentiment analysis, deep learning. 
